@@ -8,6 +8,8 @@
 - Sign up Form
 - Form Validation
 - useRef Hook
+- Firbase Setup
+- Deploying our app to the production
 
 # Features
 
