@@ -10,6 +10,7 @@
 - useRef Hook
 - Firbase Setup
 - Deploying our app to the production
+- ENV file added
 
 # Features
 
