@@ -11,6 +11,7 @@
 - Firbase Setup
 - Deploying our app to the production
 - ENV file added
+- Create SignUp User Account
 
 # Features
 
