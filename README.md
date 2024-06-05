@@ -12,6 +12,8 @@
 - Deploying our app to the production
 - ENV file added
 - Create SignUp User Account
+- Implement Sign In User API
+- Created Redux Store with userSlice
 
 # Features
 
