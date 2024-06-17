@@ -31,6 +31,11 @@
 - Embedded the Youtube Video and make it autoplay and nute
 - Tailwind Classes to make Main Conatiner more appealing
 - Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browse page look appealing with Tailwind CSS
+
 
 # Features
 
