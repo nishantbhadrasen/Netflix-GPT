@@ -12,7 +12,7 @@ const useUpcomingMovies = () => {
       "https://api.themoviedb.org/3/movie/upcoming?page=1",
       API_OPTIONS
     );
-    console.log(data);
+
     const json = await data.json();
 
     dispatch(addUpcomingMovies(json.results));

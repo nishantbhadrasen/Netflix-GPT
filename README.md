@@ -35,6 +35,10 @@
 - Build Movie Card
 - TMDB Image CDN URL
 - Made the Browse page look appealing with Tailwind CSS
+- Made custom hooks for different sections of movies
+- GPT Search Feature
+- GPT Search Bar
+- (*) Multi-labguage Feature in our App
 
 
 # Features
