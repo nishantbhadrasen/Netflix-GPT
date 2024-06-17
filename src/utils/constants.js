@@ -14,3 +14,12 @@ export const API_OPTIONS = {
 };
 
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500/";
+
+export const BG_URL =
+  "https://assets.nflxext.com/ffe/siteui/vlv3/41c789f0-7df5-4219-94c6-c66fe500590a/9812b9d4-8b5d-40c8-ad68-0eefd76756dc/DE-en-20240513-popsignuptwoweeks-perspective_alpha_website_large.jpg";
+
+export const SUPOORTED_LANGUAGES = [
+  { identifier: "en", name: "English" },
+  { identifier: "hindi", name: "Hindi" },
+  { identifier: "de", name: "Deutsch" },
+];
