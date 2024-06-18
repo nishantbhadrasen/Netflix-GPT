@@ -38,8 +38,7 @@
 - Made custom hooks for different sections of movies
 - GPT Search Feature
 - GPT Search Bar
-- (*) Multi-labguage Feature in our App
-
+- (\*) Multi-language Feature in our App
 
 # Features
 
